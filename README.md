@@ -17,15 +17,15 @@ Below is a visual walk-through of the key modules integrated into the platform:
 
 | Executive Overview | High-Level Operations Dashboard |
 | :---: | :---: |
-| ![Overview](ShopFlowassets/Overview.png) | ![Dashboard](ShopFlowassets/Dashboard.png) |
+| ![Overview](ShopFlow%20assets/Overview.png) | ![Dashboard](ShopFlow%20assets/Dashboard.png) |
 
 | Bottleneck Analysis | Supply Center Performance |
 | :---: | :---: |
-| ![Bottleneck Analysis](ShopFlowassets/Bottleneck%20Analysis.png) | ![Supply Center](ShopFlowassets/Supply%20Center.png) |
+| ![Bottleneck Analysis](ShopFlow%20assets/Bottleneck%20Analysis.png) | ![Supply Center](ShopFlow%20assets/Supply%20Center.png) |
 
 | Scenario Simulator | Data Mining & Quality Checks |
 | :---: | :---: |
-| ![Scenario Simulator](ShopFlowassets/Scenario%20simulator.png) | ![Data Mining](ShopFlowassets/Data%20Mining.png) |
+| ![Scenario Simulator](ShopFlow%20assets/Scenario%20simulator.png) | ![Data Mining](ShopFlow%20assets/Data%20Mining.png) |
 
 ---
 
